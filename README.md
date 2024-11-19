@@ -1,3 +1,11 @@
+<p>
+<img src="https://img.shields.io/badge/python-3.12.4-blue?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-1.26.4-blue?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-2.2.2-blue?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/seaborn-0.13.2-blue?logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/matplotlib-3.8.4-blue?logo=matplotlib&logoColor=white" />
+</p>
+
 ## <u>Lending Club Case Study</u>
 
 ### Table of Contents
