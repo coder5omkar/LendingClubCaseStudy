@@ -1,12 +1,12 @@
-# Lending Club Case Study
+## <u>Lending Club Case Study</u>
 
-## Table of Contents
+### Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-## General Info :
+### General Info :
 
 ``` 
 Lending loans to high-risk applicants is a major cause of financial losses, commonly 
@@ -25,7 +25,7 @@ more informed decisions regarding its loan portfolio
 ```
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions :
+### Conclusions :
 
 ``` 
 Key Insights on "Charged-Off" Loans with Higher Default Risk
@@ -52,26 +52,24 @@ Applicants with loan amounts in the range of $30k - $35k who are charged an inte
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- NumPy version: 1.26.4
-- Pandas version: 2.2.2
-- Seaborn version: 0.13.2
-- Matplotlib version: 3.8.4
+### Technologies Used :
+- [Python](https://www.python.org/) version: 3.12.4
+- [Numpy](https://numpy.org/) version: 1.26.4
+- [Pandas](https://pandas.pydata.org/) version: 2.2.2
+- [Seaborn](https://seaborn.pydata.org/) version: 0.13.2
+- [Matplotlib](https://matplotlib.org/) version: 3.8.4
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
+### Acknowledgements :
+
 - This project was inspired by UpGrad
-- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
+- It's part of UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
-## Contact
-Created by [@in/omkaramale] - feel free to contact me!
+### Contact :
+Created by [@in/omkaramale](https://github.com/coder5om)- feel free to contact me!
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
-<!-- Optional -->
-<!-- ## License -->
-This project is open source and available under the [MIT License]().
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+This project is open source and available under the [MIT License](https://github.com/coder5om/LendingClubCaseStudy/blob/main/licence.txt).
