@@ -76,7 +76,7 @@ Applicants with loan amounts in the range of $30k - $35k who are charged an inte
 
 
 ### Contact :
-Created by [@in/omkaramale](https://github.com/coder5om)- feel free to contact me!
+Created by [@in/omkaramale](https://github.com/coder5omkar)- feel free to contact me!
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
